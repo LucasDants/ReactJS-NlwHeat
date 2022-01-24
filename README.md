@@ -33,8 +33,7 @@ $ cd ReactJS-NLWHeat
 $ npm install
 
 # Run the application in development mode
-$ npm run server
-$ npm dev
+$ npm run dev
 
 # The application will open on the port: 3000 - go to http://localhost:3000
 
